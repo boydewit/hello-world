@@ -1,4 +1,4 @@
-public class Test {
+public class Renamed {
     private String str = "Hello World!";
     
     public void sayHello() {
